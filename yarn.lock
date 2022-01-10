@@ -6727,13 +6727,21 @@ jasmine@2.8.0:
     glob "^7.0.6"
     jasmine-core "~2.8.0"
 
-jasmine@^3.6.0, jasmine@^3.7.0:
+jasmine@^3.7.0:
   version "3.99.0"
   resolved "https://registry.yarnpkg.com/jasmine/-/jasmine-3.99.0.tgz#7cc7aeda7ade2d57694fc818a374f778cbb4ea62"
   integrity sha512-YIThBuHzaIIcjxeuLmPD40SjxkEcc8i//sGMDKCgkRMVgIwRJf5qyExtlJpQeh7pkeoBSOe6lQEdg+/9uKg9mw==
   dependencies:
     glob "^7.1.6"
     jasmine-core "~3.99.0"
+
+jasmine@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/jasmine/-/jasmine-4.0.1.tgz#5e9074bcd40c41af62c20d28b90bf80bdd9aa5ed"
+  integrity sha512-NAf9b80ie0pAXLW2l+Fxc8s0Q6SjVgi81jOyHJRQuZ+fPjbVAnXNfN2nIwf5yoRjoSTROyRiETjr9Cr+nNBTVw==
+  dependencies:
+    glob "^7.1.6"
+    jasmine-core "^4.0.0"
 
 jasminewd2@^2.1.0:
   version "2.2.0"
